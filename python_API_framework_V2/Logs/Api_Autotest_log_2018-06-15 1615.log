@@ -1,0 +1,532 @@
+ Fri, 15 Jun 2018 16:15:50  INFO myLogger2.py <module> [ line:20 ] hehehe
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:50  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340082', '${init_phone}': '18612340081', '${noReg_phone}': '18612340083'}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340081","pwd":"1234567890"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","pwd":"1234567890","regname":"xiaojian"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"","pwd":"1234567890","regname":"xiaojian"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340083","pwd":"","regname":"简"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"1376024607","pwd":"1234567890","regname":"xiaojian"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"1376024607011","pwd":"1234567890","regname":"xiaojian"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340083","pwd":"1234","regname":u"xiaojian"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340083","pwd":"1234567890123456789","regname":u"xiaojian"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:51  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","pwd":"1234567890","regname":u"xiaojian"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","pwd":"1234567890"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":null,"msg":"登录成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":null,"msg":"登录成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"","pwd":"1234567890"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","pwd":""}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340083","pwd":"1234567890"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] None
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  ERROR test_api_v2.py test_api [ line:69 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\python3_API_framework_V2\TestCases\test_api_v2.py", line 66, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}' != None
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","pwd":"12345678911"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","amount":"200"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":{"id":7169,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340082","leaveamount":"200.00","type":"1","regtime":"2018-06-15 16:15:51.0"},"msg":"充值成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:51 ] 需要从响应结果中提取数据：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:55 ] 正则匹配表达式为:"id":(\d*),
+匹配结果为：['7169']
+
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":{.*."leaveamount":"200.00".*},"msg":"充值成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:72 ] 正则表达式匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","amount":"200.3"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340082","amount":"200.3"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":{"id":7169,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340082","leaveamount":"400.30","type":"1","regtime":"2018-06-15 16:15:51.0"},"msg":"充值成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":{.*."leaveamount":"400.30".*},"msg":"充值成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:72 ] 正则表达式匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","amount":"200.35"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340082","amount":"200.35"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":{"id":7169,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340082","leaveamount":"600.65","type":"1","regtime":"2018-06-15 16:15:51.0"},"msg":"充值成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":{.*."leaveamount":"600.65".*},"msg":"充值成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:72 ] 正则表达式匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"","amount":"200.35"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"","amount":"200.35"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","amount":"0"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340082","amount":"0"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":{"id":7169,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340082","leaveamount":"600.65","type":"1","regtime":"2018-06-15 16:15:51.0"},"msg":"充值成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":{"id":989,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"13760200031","leaveamount":"600.65","type":"1","regtime":"2018-03-12 16:42:51.0"},"msg":"充值成功"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  ERROR test_api_v2.py test_api [ line:69 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\python3_API_framework_V2\TestCases\test_api_v2.py", line 66, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 1173, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Python34\lib\unittest\case.py", line 645, in fail
+    raise self.failureException(msg)
+AssertionError: '{"st[31 chars]"id":7169,"regname":"xiaojian","pwd":"E807F1FC[132 chars]成功"}' != '{"st[31 chars]"id":989,"regname":"xiaojian","pwd":"E807F1FCF[131 chars]成功"}'
+Diff is 837 characters long. Set self.maxDiff to None to see it.
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","amount":""}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340082","amount":""}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20115","data":null,"msg":"请输入金额"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20115","data":null,"msg":"请输入金额"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"1376024607","amount":"200"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"1376024607","amount":"200"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"1376024607011","amount":"200"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"1376024607011","amount":"200"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340083","amount":"200"}
+ Fri, 15 Jun 2018 16:15:52  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340083","amount":"200"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20104","data":null,"msg":"此手机号对应的会员不存在"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20104","data":null,"msg":"此手机号对应的会员不存在"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","amount":"200.333"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340082","amount":"200.333"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","amount":"500001"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340082","amount":"500001"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"mobilephone":"18612340082","amount":"200块"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340082","amount":"200块"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] {"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/invest/getInvestsByMemberId
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"memberId":${user_id}}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"memberId":7169}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":[],"msg":"获取用户投资列表成功"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] None
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  ERROR test_api_v2.py test_api [ line:69 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\python3_API_framework_V2\TestCases\test_api_v2.py", line 66, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":1,"code":"10001","data":[],"msg":"获取用户投资列表成功"}' != None
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/invest/getInvestsByLoanId
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"memberId":${user_id}}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"memberId":7169}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":0,"code":"30002","data":null,"msg":"参数错误：标id不能为空"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] None
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  ERROR test_api_v2.py test_api [ line:69 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\python3_API_framework_V2\TestCases\test_api_v2.py", line 66, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":0,"code":"30002","data":null,"msg":"参数错误：标id不能为空"}' != None
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/loan/add
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"memberId":"${user_id}","title":"接口自动化_小简_18612340082","amount":50000,"loanRate":10,"loanTerm":90,"loanDateType":2,
+         "repaymemtWay":10,"biddingDays":10}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"memberId":"7169","title":"接口自动化_小简_18612340082","amount":50000,"loanRate":10,"loanTerm":90,"loanDateType":2,
+         "repaymemtWay":10,"biddingDays":10}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":null,"msg":"加标成功"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":null,"msg":"加标成功"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:67 ] 结果比对成功，测试用例通过
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/loan/getLoanList
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：get
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：None
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":[{"id":"295","memberId":"7157","title":"接口自动化_小简_18612340079","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-06-15 14:58:35.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"296","memberId":"7169","title":"接口自动化_小简_18612340082","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-06-15 16:15:53.0","biddingStartTime":null,"fullTime":null,"status":"1"}],"msg":"获取标列表成功"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:51 ] 需要从响应结果中提取数据：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:55 ] 正则匹配表达式为:"id":"(\d*)",[^{}]*,"title":"接口自动化_小简_18612340082"
+匹配结果为：['296']
+
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] {"status":1,"code":"10001","data":.*,"msg":"获取标列表成功"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:72 ] 正则表达式匹配模式。
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:75 ] ========================结束一个接口测试用例==========================
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/loan/audit
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"id":"${loan_id}","status":4}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"id":"296","status":4}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] None
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  ERROR test_api_v2.py test_api [ line:69 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\python3_API_framework_V2\TestCases\test_api_v2.py", line 66, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}' != None
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:32 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:33 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/bidLoan
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:34 ] 接口请求类型：post
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求数据为：{"memberId":"${user_id}","password":"1234567890","loanId":"${loan_id}","amount":"500"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:42 ] 动态更新之后的请求数据为：
+{"memberId":"7169","password":"1234567890","loanId":"296","amount":"500"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:46 ] 本次接口请求的状态码为：200
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:47 ] 接口请求的返回数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:48 ] {"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:59 ] 接口请求的期望数据为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:60 ] None
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:61 ] 期望结果与实际结果的比对方式为：
+ Fri, 15 Jun 2018 16:15:53  INFO test_api_v2.py test_api [ line:64 ] 全值匹配模式。
+ Fri, 15 Jun 2018 16:15:53  ERROR test_api_v2.py test_api [ line:69 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\python3_API_framework_V2\TestCases\test_api_v2.py", line 66, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":1,"code":"10001","data":null,"msg":"竞标成功"}' != None

@@ -1,0 +1,263 @@
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340048","pwd":"1234567890"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340049","pwd":"1234567890","regname":"xiaojian"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"","pwd":"1234567890","regname":"xiaojian"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340050","pwd":"","regname":"简"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"1376024607","pwd":"1234567890","regname":"xiaojian"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"1376024607011","pwd":"1234567890","regname":"xiaojian"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340050","pwd":"1234","regname":u"xiaojian"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340050","pwd":"1234567890123456789","regname":u"xiaojian"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340049","pwd":"1234567890","regname":u"xiaojian"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340049","pwd":"1234567890"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"","pwd":"1234567890"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340049","pwd":""}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340050","pwd":"1234567890"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340049","pwd":"12345678911"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340049","amount":"200"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340049","amount":"200.3"}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340049', '${init_phone}': '18612340048', '${noReg_phone}': '18612340050'}
+Fri, 23 Mar 2018 17:19:48  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340049","amount":"200.35"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340048","pwd":"1234567890"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340049","pwd":"1234567890","regname":"xiaojian"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"","pwd":"1234567890","regname":"xiaojian"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340050","pwd":"","regname":"简"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"1376024607","pwd":"1234567890","regname":"xiaojian"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"1376024607011","pwd":"1234567890","regname":"xiaojian"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340050","pwd":"1234","regname":u"xiaojian"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340050","pwd":"1234567890123456789","regname":u"xiaojian"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：get
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340049","pwd":"1234567890","regname":u"xiaojian"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：post
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340049","pwd":"1234567890"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：post
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"","pwd":"1234567890"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求类型：post
+Fri, 23 Mar 2018 17:19:49  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340049","pwd":""}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求类型：post
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340050","pwd":"1234567890"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO None
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:50  myLogger.py  exception [line:47] ERROR 结果比对失败：
+Traceback (most recent call last):
+  File "D:\Pychram-Workspace\python3_API_framework\TestCases\test_api_v2.py", line 44, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}' != None
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求类型：post
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340049","pwd":"12345678911"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 全值匹配模式。
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/recharge
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求类型：post
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340049","amount":"200"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":{"id":2003,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340049","leaveamount":"200.00","type":"1","regtime":"2018-03-23 17:19:49.0"},"msg":"充值成功"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO "leaveamount":"200.00"
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 部分匹配模式。
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/recharge
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求类型：post
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340049","amount":"200.3"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":{"id":2003,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340049","leaveamount":"400.30","type":"1","regtime":"2018-03-23 17:19:49.0"},"msg":"充值成功"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO "leaveamount":"400.30"
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 部分匹配模式。
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/recharge
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求类型：post
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340049","amount":"200.35"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":{"id":2003,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340049","leaveamount":"600.65","type":"1","regtime":"2018-03-23 17:19:49.0"},"msg":"充值成功"}
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO "leaveamount":"600.65"
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO 部分匹配模式。
+Fri, 23 Mar 2018 17:19:50  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================

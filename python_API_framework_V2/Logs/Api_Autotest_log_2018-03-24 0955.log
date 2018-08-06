@@ -1,0 +1,302 @@
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340051","pwd":"1234567890"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340052","pwd":"1234567890","regname":"xiaojian"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"","pwd":"1234567890","regname":"xiaojian"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340053","pwd":"","regname":"简"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"1376024607","pwd":"1234567890","regname":"xiaojian"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"1376024607011","pwd":"1234567890","regname":"xiaojian"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340053","pwd":"1234","regname":u"xiaojian"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340053","pwd":"1234567890123456789","regname":u"xiaojian"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340052","pwd":"1234567890","regname":u"xiaojian"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340052","pwd":"1234567890"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"","pwd":"1234567890"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340052","pwd":""}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340053","pwd":"1234567890"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340052","pwd":"12345678911"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340052","amount":"200"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340052","amount":"200.3"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+{"mobilephone":"18612340052","amount":"200.35"}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化数据为：{'${phone}': '18612340052', '${noReg_phone}': '18612340053', '${init_phone}': '18612340051'}
+Sat, 24 Mar 2018 09:55:23  myLogger.py  info [line:32] INFO 初始化之后的请求数据为：
+None
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340051","pwd":"1234567890"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340052","pwd":"1234567890","regname":"xiaojian"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"","pwd":"1234567890","regname":"xiaojian"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340053","pwd":"","regname":"简"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"1376024607","pwd":"1234567890","regname":"xiaojian"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"1376024607011","pwd":"1234567890","regname":"xiaojian"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340053","pwd":"1234","regname":u"xiaojian"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340053","pwd":"1234567890123456789","regname":u"xiaojian"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/register
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340052","pwd":"1234567890","regname":u"xiaojian"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：post
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340052","pwd":"1234567890"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：post
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"","pwd":"1234567890"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求类型：post
+Sat, 24 Mar 2018 09:55:25  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340052","pwd":""}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求类型：post
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340053","pwd":"1234567890"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO None
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:26  myLogger.py  exception [line:47] ERROR 结果比对失败：
+Traceback (most recent call last):
+  File "D:\Pychram-Workspace\python3_API_framework\TestCases\test_api_v2.py", line 45, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}' != None
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/login
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求类型：post
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340052","pwd":"12345678911"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/recharge
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求类型：post
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340052","amount":"200"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":{"id":2126,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340052","leaveamount":"200.00","type":"1","regtime":"2018-03-24 09:55:24.0"},"msg":"充值成功"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO "leaveamount":"200.00"
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 部分匹配模式。
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/recharge
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求类型：post
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340052","amount":"200.3"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":{"id":2126,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340052","leaveamount":"400.30","type":"1","regtime":"2018-03-24 09:55:24.0"},"msg":"充值成功"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO "leaveamount":"400.30"
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 部分匹配模式。
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/member/recharge
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求类型：post
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求数据为：{"mobilephone":"18612340052","amount":"200.35"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":{"id":2126,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340052","leaveamount":"600.65","type":"1","regtime":"2018-03-24 09:55:24.0"},"msg":"充值成功"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO "leaveamount":"600.65"
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 部分匹配模式。
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 结果比对成功，测试用例通过
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ========================结束一个接口测试用例==========================
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO ==============开始执行一个接口测试用例，请求数据如下===============
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求地址：http://119.23.241.154:8080/futureloan/mvc/api/loan/getLoanList
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求类型：get
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求数据为：None
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 本次接口请求的状态码为：200
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的返回数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO {"status":1,"code":"10001","data":[{"id":"21","memberId":"987","title":"接口自动化测试1","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-13 14:36:12.0","biddingStartTime":"2018-03-13 14:42:30.0","fullTime":null,"status":"4"},{"id":"22","memberId":"987","title":"接口自动化测试2","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-13 14:40:54.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"24","memberId":"80","title":"35æè¦åé±åå æ æª¬ç­çæ¯ä¸å¸ç¤¼","amount":"100.00","loanRate":"-5.0","loanTerm":"30","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-14 23:17:40.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"25","memberId":"1483","title":"接口自动化13760200067","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-19 17:29:00.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"26","memberId":"1484","title":"接口自动化13760200070","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-19 17:55:48.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"27","memberId":"1485","title":"接口自动化13760200073","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-19 17:57:46.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"28","memberId":"1485","title":"接口自动化13760200073","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-19 17:58:21.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"29","memberId":"1485","title":"接口自动化13760200073","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-19 17:59:05.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"30","memberId":"1486","title":"接口自动化13760200076","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-19 17:59:24.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"31","memberId":"81","title":"dengæ¥å£æµè¯","amount":"5000.00","loanRate":"0.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-22 13:38:31.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"32","memberId":"81","title":"dengæ¥å£æµè¯","amount":"5000.00","loanRate":"-1.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-22 13:38:36.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"33","memberId":"81","title":"dengæ¥å£æµè¯","amount":"5000.00","loanRate":"-1.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-22 13:38:53.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"34","memberId":"81","title":"dengæ¥å£æµè¯","amount":"5000.00","loanRate":"50.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-22 13:38:58.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"35","memberId":"81","title":"dengæ¥å£æµè¯","amount":"5000.00","loanRate":"50.5","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-22 13:39:43.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"36","memberId":"81","title":"dengæ¥å£æµè¯","amount":"5000.00","loanRate":"-50.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-22 13:39:48.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"37","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 09:42:29.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"38","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 09:42:30.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"39","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 09:43:00.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"40","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 09:43:00.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"41","memberId":"81","title":"dengæ¥å£æµè¯","amount":"5000.00","loanRate":"5.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 09:48:17.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"42","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 09:53:34.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"43","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:00:37.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"44","memberId":"81","title":"dengæ¥å£æµè¯","amount":"5000.00","loanRate":"5.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:04:54.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"45","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:06:58.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"46","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:09:55.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"47","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:14:51.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"48","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:15:32.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"49","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:15:46.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"50","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:18:05.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"51","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:20:00.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"52","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:20:14.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"53","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:22:54.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"54","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:25:40.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"55","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:29:11.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"56","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:38:24.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"57","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:38:44.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"58","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 10:39:24.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"59","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 16:02:14.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"60","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 16:20:34.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"61","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 16:21:01.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"62","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 16:25:19.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"63","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 16:44:41.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"64","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 17:03:38.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"65","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 17:04:15.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"66","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 17:04:24.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"67","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 17:04:32.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"68","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 20:50:02.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"69","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 20:51:35.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"70","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 20:51:52.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"71","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 21:03:16.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"72","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 21:04:33.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"73","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 21:06:14.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"74","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 21:07:19.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"75","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 21:07:33.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"76","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 21:12:54.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"77","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 21:14:01.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"78","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-23 21:15:50.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"79","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-24 09:36:42.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"80","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-24 09:45:40.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"81","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-24 09:52:57.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"82","memberId":"81","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-24 09:53:19.0","biddingStartTime":null,"fullTime":null,"status":"1"}],"msg":"获取标列表成功"}
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 接口请求的期望数据为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO None
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 期望结果与实际结果的比对方式为：
+Sat, 24 Mar 2018 09:55:26  myLogger.py  info [line:32] INFO 全值匹配模式。
+Sat, 24 Mar 2018 09:55:26  myLogger.py  exception [line:47] ERROR 结果比对失败：
+Traceback (most recent call last):
+  File "D:\Pychram-Workspace\python3_API_framework\TestCases\test_api_v2.py", line 45, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":1,"code":"10001","data":[{"id"[16234 chars]成功"}' != None

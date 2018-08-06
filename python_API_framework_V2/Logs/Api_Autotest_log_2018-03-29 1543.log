@@ -1,0 +1,536 @@
+ Thu, 29 Mar 2018 15:43:52  INFO myLogger2.py <module> [ line:20 ] hehehe
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340066","pwd":"1234567890"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","pwd":"1234567890","regname":"xiaojian"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"","pwd":"1234567890","regname":"xiaojian"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340068","pwd":"","regname":"简"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"1376024607","pwd":"1234567890","regname":"xiaojian"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"1376024607011","pwd":"1234567890","regname":"xiaojian"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340068","pwd":"1234","regname":u"xiaojian"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340068","pwd":"1234567890123456789","regname":u"xiaojian"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340068","pwd":"1234567890123456789","regname":u"xiaojian"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","pwd":"a_b#cd123456789
+","regname":u"xiaojian"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","pwd":"1234567890"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"","pwd":"1234567890"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","pwd":""}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340068","pwd":"1234567890"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","pwd":"12345678911"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200.3"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200.35"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"","amount":"200.35"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","amount":"0"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","amount":""}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"1376024607","amount":"200"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"1376024607011","amount":"200"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340068","amount":"200"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200.333"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","amount":"500001"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200块"}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+None
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"memberId":${user_id}}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${phone}': '18612340067', '${init_phone}': '18612340066', '${noReg_phone}': '18612340068'}
+ Thu, 29 Mar 2018 15:43:52  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"memberId":${user_id}}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340066","pwd":"1234567890"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","pwd":"1234567890","regname":"xiaojian"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"","pwd":"1234567890","regname":"xiaojian"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340068","pwd":"","regname":"简"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"1376024607","pwd":"1234567890","regname":"xiaojian"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"1376024607011","pwd":"1234567890","regname":"xiaojian"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340068","pwd":"1234","regname":u"xiaojian"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340068","pwd":"1234567890123456789","regname":u"xiaojian"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340068","pwd":"1234567890123456789","regname":u"xiaojian"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] None
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","pwd":"a_b#cd123456789
+","regname":u"xiaojian"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","pwd":"1234567890"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":null,"msg":"登录成功"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:61 ] {"status":1,"code":"10001","data":null,"msg":"登录成功"}
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:53  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"","pwd":"1234567890"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","pwd":""}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340068","pwd":"1234567890"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] None
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  ERROR test_api_v2.py test_api [ line:70 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\Pychram-Workspace\python3_API_framework_V2\TestCases\test_api_v2.py", line 67, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}' != None
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","pwd":"12345678911"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","amount":"200"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":{"id":466,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340067","leaveamount":"200.00","type":"1","regtime":"2018-03-29 15:43:53.0"},"msg":"充值成功"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:53 ] 需要从响应结果中提取数据：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] "leaveamount":"200.00"
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:73 ] 部分匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:76 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","amount":"200.3"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200.3"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":{"id":466,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340067","leaveamount":"400.30","type":"1","regtime":"2018-03-29 15:43:53.0"},"msg":"充值成功"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] "leaveamount":"400.30"
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:73 ] 部分匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:76 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","amount":"200.35"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200.35"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":{"id":466,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340067","leaveamount":"600.65","type":"1","regtime":"2018-03-29 15:43:53.0"},"msg":"充值成功"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] "leaveamount":"600.65"
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:73 ] 部分匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:76 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"","amount":"200.35"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"","amount":"200.35"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","amount":"0"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340067","amount":"0"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":{"id":466,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"18612340067","leaveamount":"600.65","type":"1","regtime":"2018-03-29 15:43:53.0"},"msg":"充值成功"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":1,"code":"10001","data":{"id":989,"regname":"xiaojian","pwd":"E807F1FCF82D132F9BB018CA6738A19F","mobilephone":"13760200031","leaveamount":"600.65","type":"1","regtime":"2018-03-12 16:42:51.0"},"msg":"充值成功"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  ERROR test_api_v2.py test_api [ line:70 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\Pychram-Workspace\python3_API_framework_V2\TestCases\test_api_v2.py", line 67, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 1173, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Python34\lib\unittest\case.py", line 645, in fail
+    raise self.failureException(msg)
+AssertionError: '{"st[31 chars]"id":466,"regname":"xiaojian","pwd":"E807F1FCF[131 chars]成功"}' != '{"st[31 chars]"id":989,"regname":"xiaojian","pwd":"E807F1FCF[131 chars]成功"}'
+Diff is 841 characters long. Set self.maxDiff to None to see it.
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","amount":""}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340067","amount":""}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20115","data":null,"msg":"请输入金额"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20115","data":null,"msg":"请输入金额"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"1376024607","amount":"200"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"1376024607","amount":"200"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"1376024607011","amount":"200"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"1376024607011","amount":"200"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340068","amount":"200"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340068","amount":"200"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20104","data":null,"msg":"此手机号对应的会员不存在"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20104","data":null,"msg":"此手机号对应的会员不存在"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","amount":"200.333"}
+ Thu, 29 Mar 2018 15:43:54  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200.333"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","amount":"500001"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340067","amount":"500001"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：post
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"mobilephone":"18612340067","amount":"200块"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"mobilephone":"18612340067","amount":"200块"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:61 ] {"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:68 ] 结果比对成功，测试用例通过
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:80 ] ========================结束一个接口测试用例==========================
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/loan/getLoanList
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：None
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":[{"id":"28","memberId":"241","title":"接口自动化_小简_1","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-26 17:29:39.0","biddingStartTime":null,"fullTime":null,"status":"5"},{"id":"29","memberId":"241","title":"接口自动化_小简_2","amount":"50000.00","loanRate":"10.0","loanTerm":"90","loanDateType":"2","repaymemtWay":"10","biddingDays":"5","createTime":"2018-03-26 17:29:57.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"30","memberId":"255","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:11:41.0","biddingStartTime":null,"fullTime":null,"status":"6"},{"id":"31","memberId":"255","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:11:51.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"32","memberId":"257","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:12:34.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"33","memberId":"259","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:15:15.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"34","memberId":"261","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:16:56.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"35","memberId":"263","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:24:25.0","biddingStartTime":null,"fullTime":null,"status":"6"},{"id":"36","memberId":"265","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:44:54.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"37","memberId":"267","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:45:05.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"38","memberId":"269","title":"dengæ¥å£æµè¯","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-26 22:51:19.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"39","memberId":"281","title":"deng281","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 11:33:42.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"40","memberId":"283","title":"deng283","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 11:35:44.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"41","memberId":"285","title":"deng285","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 11:38:10.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"42","memberId":"285","title":"deng285","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:38:42.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"43","memberId":"291","title":"deng291","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:38:54.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"44","memberId":"293","title":"deng293","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:40:49.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"45","memberId":"295","title":"deng295","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:41:30.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"46","memberId":"295","title":"deng295","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:43:30.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"47","memberId":"297","title":"deng297","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:45:00.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"48","memberId":"297","title":"deng297","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:46:33.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"49","memberId":"299","title":"deng299","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:46:44.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"50","memberId":"301","title":"deng301","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:48:33.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"51","memberId":"303","title":"deng303","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:50:16.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"52","memberId":"305","title":"deng305","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:51:04.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"53","memberId":"307","title":"deng307","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:54:06.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"54","memberId":"311","title":"deng311","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 14:58:17.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"55","memberId":"313","title":"deng313","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:00:17.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"56","memberId":"327","title":"deng13955770046","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:21:33.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"57","memberId":"335","title":"deng13955770048","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:29:07.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"58","memberId":"335","title":"deng15371813586","amount":"1000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:29:55.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"59","memberId":"335","title":"deng13955770048","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:30:28.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"60","memberId":"337","title":"deng13955770050","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:30:39.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"61","memberId":"339","title":"deng13955770052","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:30:54.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"62","memberId":"343","title":"deng13955770054","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:31:50.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"63","memberId":"345","title":"deng13955770056","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:32:59.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"64","memberId":"349","title":"deng13955770058","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:33:26.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"65","memberId":"353","title":"deng13955770060","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:34:44.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"66","memberId":"363","title":"deng13955770062","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:53:16.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"67","memberId":"369","title":"deng13955770064","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 15:57:11.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"68","memberId":"375","title":"deng13955770066","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 16:05:02.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"69","memberId":"377","title":"deng13955770068","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 16:07:07.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"70","memberId":"391","title":"deng13955770070","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 17:20:28.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"71","memberId":"393","title":"deng13955770072","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-27 17:28:33.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"72","memberId":"401","title":"deng13955770076","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 12:42:35.0","biddingStartTime":"2018-03-28 12:42:37.0","fullTime":null,"status":"7"},{"id":"73","memberId":"403","title":"deng13955770078","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 12:42:51.0","biddingStartTime":"2018-03-28 12:42:52.0","fullTime":null,"status":"7"},{"id":"74","memberId":"405","title":"deng13955770100","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 12:43:49.0","biddingStartTime":"2018-03-28 12:43:50.0","fullTime":null,"status":"7"},{"id":"75","memberId":"407","title":"deng13955770102","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 12:47:32.0","biddingStartTime":"2018-03-28 12:47:33.0","fullTime":null,"status":"7"},{"id":"76","memberId":"409","title":"deng13955770104","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 12:50:47.0","biddingStartTime":"2018-03-28 12:50:48.0","fullTime":null,"status":"7"},{"id":"77","memberId":"411","title":"deng13955770106","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 12:54:41.0","biddingStartTime":"2018-03-28 12:54:42.0","fullTime":null,"status":"7"},{"id":"78","memberId":"413","title":"deng13955770108","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 12:56:29.0","biddingStartTime":"2018-03-28 12:56:30.0","fullTime":null,"status":"7"},{"id":"79","memberId":"415","title":"deng13955770110","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:01:57.0","biddingStartTime":"2018-03-28 13:01:58.0","fullTime":null,"status":"7"},{"id":"80","memberId":"417","title":"deng13955770112","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:11:38.0","biddingStartTime":"2018-03-28 13:11:40.0","fullTime":null,"status":"7"},{"id":"81","memberId":"417","title":"deng13955770113","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:11:38.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"82","memberId":"419","title":"deng13955770114","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:11:58.0","biddingStartTime":"2018-03-28 13:12:00.0","fullTime":null,"status":"7"},{"id":"83","memberId":"419","title":"deng13955770115","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:11:59.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"84","memberId":"421","title":"deng13955770116","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:14:39.0","biddingStartTime":"2018-03-28 13:14:40.0","fullTime":null,"status":"7"},{"id":"85","memberId":"421","title":"deng13955770117","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:14:39.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"86","memberId":"423","title":"deng13955770118","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:18:15.0","biddingStartTime":"2018-03-28 13:18:16.0","fullTime":null,"status":"7"},{"id":"87","memberId":"423","title":"deng13955770119","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:18:15.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"88","memberId":"423","title":"deng13955770118","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:18:38.0","biddingStartTime":"2018-03-28 13:18:39.0","fullTime":null,"status":"7"},{"id":"89","memberId":"423","title":"deng13955770119","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:18:38.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"90","memberId":"425","title":"deng13955770120","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:20:04.0","biddingStartTime":"2018-03-28 13:20:05.0","fullTime":null,"status":"7"},{"id":"91","memberId":"425","title":"deng13955770121","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:20:04.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"92","memberId":"427","title":"deng13955770122","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:24:43.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"93","memberId":"427","title":"deng13955770123","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:24:43.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"94","memberId":"429","title":"deng13955770124","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:25:19.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"95","memberId":"429","title":"deng13955770125","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:25:19.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"96","memberId":"431","title":"deng13955770126","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:25:57.0","biddingStartTime":"2018-03-28 13:25:58.0","fullTime":null,"status":"7"},{"id":"97","memberId":"431","title":"deng13955770127","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:25:57.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"98","memberId":"433","title":"deng13955770128","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:38:35.0","biddingStartTime":"2018-03-28 13:38:36.0","fullTime":null,"status":"7"},{"id":"99","memberId":"433","title":"deng13955770129","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:38:35.0","biddingStartTime":null,"fullTime":null,"status":"1"},{"id":"100","memberId":"435","title":"deng13955770130","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:39:44.0","biddingStartTime":"2018-03-28 13:39:45.0","fullTime":null,"status":"7"},{"id":"101","memberId":"435","title":"deng13955770131","amount":"20000.00","loanRate":"15.0","loanTerm":"5","loanDateType":"2","repaymemtWay":"4","biddingDays":"5","createTime":"2018-03-28 13:39:44.0","biddingStartTime":null,"fullTime":null,"status":"1"}],"msg":"获取标列表成功"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:61 ] None
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:55  ERROR test_api_v2.py test_api [ line:70 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\Pychram-Workspace\python3_API_framework_V2\TestCases\test_api_v2.py", line 67, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":1,"code":"10001","data":[{"id"[19103 chars]成功"}' != None
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/invest/getInvestsByMemberId
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"memberId":${user_id}}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"memberId":466}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:50 ] {"status":1,"code":"10001","data":[],"msg":"获取用户投资列表成功"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:61 ] None
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:55  ERROR test_api_v2.py test_api [ line:70 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\Pychram-Workspace\python3_API_framework_V2\TestCases\test_api_v2.py", line 67, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":1,"code":"10001","data":[],"msg":"获取用户投资列表成功"}' != None
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:34 ] ==============开始执行一个接口测试用例，请求数据如下===============
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:35 ] 接口请求地址：http://120.79.176.157:8080/futureloan/mvc/api/invest/getInvestsByLoanId
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:36 ] 接口请求类型：get
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:37 ] 接口请求数据为：{"memberId":${user_id}}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:44 ] 动态更新之后的请求数据为：
+{"memberId":466}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:48 ] 本次接口请求的状态码为：200
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:49 ] 接口请求的返回数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:50 ] {"status":0,"code":"30002","data":null,"msg":"参数错误：标id不能为空"}
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:60 ] 接口请求的期望数据为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:61 ] None
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:62 ] 期望结果与实际结果的比对方式为：
+ Thu, 29 Mar 2018 15:43:55  INFO test_api_v2.py test_api [ line:65 ] 全值匹配模式。
+ Thu, 29 Mar 2018 15:43:55  ERROR test_api_v2.py test_api [ line:70 ] 结果比对失败：
+Traceback (most recent call last):
+  File "D:\Pychram-Workspace\python3_API_framework_V2\TestCases\test_api_v2.py", line 67, in test_api
+    self.assertEqual(res.text,case_data["expected_data"])
+  File "D:\Python34\lib\unittest\case.py", line 800, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python34\lib\unittest\case.py", line 793, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '{"status":0,"code":"30002","data":null,"msg":"参数错误：标id不能为空"}' != None
