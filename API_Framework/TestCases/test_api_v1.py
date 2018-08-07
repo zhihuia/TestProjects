@@ -4,7 +4,9 @@ import unittest
 from Common.DoExcel import DoExcel
 from Common.MyRequest import send_request
 import ddt
-
+from Common import myLogger2
+import logging
+from Common.myLogger import my_logger
 
 # 获取所有的测试数据
 de = DoExcel("/Users/gemii/TestProjects/API_Framework/TestDatas/api_info_1.xlsx")
@@ -36,9 +38,22 @@ class Test_API_V1(unittest.TestCase):
 
     @ddt.data(*all_case_datas)
     def test_register(self,casedata):
+        #my_logger.info("========开始一个接口测试========")
+        logging.info("========开始一个接口测试========")
+        logging.info("请求url为：\n{0}".format(casedata["url"]))
+        logging.info("请求方法为：{0}".format(casedata["method"]))
+        logging.info("请求数据为：\n{0}".format(casedata["request_data"]))
         #调用发送接口请求数据的方法，将所有测试用例的测试数据发送出去
         res_obj = send_request(casedata["method"],casedata["url"],casedata["request_data"])
+        logging.info("响应的结果为：\n{0}".format(res_obj.text))
         #断言--比对相应结果是否相等
-        self.assertEqual(casedata["expected_data"],res_obj.text)   #text获取响应体
+        try:
+            self.assertEqual(casedata["expected_data"],res_obj.text)   #text获取响应体
+            logging.info("期望结果与实际结果匹配，用例成功！")
+        except Exception as e:
+            logging.error("期望结果与实际结果不匹配，用例失败！")
+            logging.exception("断言异常：")
+            raise e
+
 
 
