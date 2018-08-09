@@ -23,18 +23,26 @@ class DoExcel:
             new_case = {}
             new_case["method"] = self.sh.cell(row,column=5).value
             new_case["url"] = self.sh.cell(row, column=6).value
-            new_case["expected_data"] = self.sh.cell(row, column=8).value
+            #new_case["expected_data"] = self.sh.cell(row, column=8).value
+            temp_expected_data = self.sh.cell(row, column=8).value
             #new_case["request_data"] = self.sh.cell(row, column=7).value
             #request_data先不赋值，拿到excel中的请求数据，用一个临时变量接收
             temp_request_data = self.sh.cell(row, column=7).value
             #遍历所有的初始化值的键名，如果请求数据中，有某一个键名，则直接替换
-            if temp_request_data is not None:
+            if temp_request_data is not None or temp_expected_data is not None:
                 for item,value in init_datas.items():     #字典的遍历
                     # 判断一下本条测试数据中，请求数据是否有需要替换的
-                    if temp_request_data.find(item) != -1:    #!=-1说明存在，find函数
+                    if temp_request_data is not None and temp_request_data.find(item) != -1:    #!=-1说明存在，find函数
                         temp_request_data = temp_request_data.replace(item,str(value))
+                    #判断一下期望结果中，是否有要替换的数据-初始化数据
+                    if temp_expected_data is not None and temp_expected_data.find(item) != -1:    #!=-1说明存在，find函数
+                        temp_expected_data = temp_expected_data.replace(item,str(value))
                 #替换请求数据
                 new_case["request_data"] = temp_request_data
+                #替换期望数据
+                new_case["expected_data"] = temp_expected_data
+                #添加一列：匹配类型--1表示正则匹配，0表示全值匹配--测试用例中比对结果时使用
+                new_case["compare_type"] = self.sh.cell(row, column=9).value
             all_caseDatas.append(new_case)
         return all_caseDatas
 

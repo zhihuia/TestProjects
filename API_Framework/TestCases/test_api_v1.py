@@ -7,6 +7,7 @@ import ddt
 from Common import myLogger2
 import logging
 from Common.myLogger import my_logger
+import re
 
 # 获取所有的测试数据
 de = DoExcel("/Users/gemii/TestProjects/API_Framework/TestDatas/api_info_1.xlsx")
@@ -48,7 +49,11 @@ class Test_API_V1(unittest.TestCase):
         logging.info("响应的结果为：\n{0}".format(res_obj.text))
         #断言--比对相应结果是否相等
         try:
-            self.assertEqual(casedata["expected_data"],res_obj.text)   #text获取响应体
+            #判断比对方式--来选择比对方法
+            if casedata["compare_type"] == 1:
+                self.assertIsNotNone(re.search(casedata["expected_data"],res_obj.text))
+            else:
+                self.assertEqual(casedata["expected_data"],res_obj.text)  # text获取响应体
             logging.info("期望结果与实际结果匹配，用例成功！")
         except Exception as e:
             logging.error("期望结果与实际结果不匹配，用例失败！")

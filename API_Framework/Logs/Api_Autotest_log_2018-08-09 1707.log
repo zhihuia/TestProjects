@@ -1,0 +1,271 @@
+ Thu, 09 Aug 2018 17:07:02  INFO myLogger2.py <module> [ line:22 ] hehehe
+ Thu, 09 Aug 2018 17:07:04  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:04  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:04  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:04  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","pwd":"12345678"}
+ Thu, 09 Aug 2018 17:07:05  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Thu, 09 Aug 2018 17:07:05  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:08  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:08  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:08  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:08  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000037","pwd":"12345678","regname":"Cheese"}
+ Thu, 09 Aug 2018 17:07:08  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+ Thu, 09 Aug 2018 17:07:08  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:10  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:10  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:10  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:10  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"","pwd":"12345678"}
+ Thu, 09 Aug 2018 17:07:10  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 09 Aug 2018 17:07:10  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:13  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:13  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:13  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:13  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000039","pwd":""}
+ Thu, 09 Aug 2018 17:07:13  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Thu, 09 Aug 2018 17:07:13  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:15  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:15  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:15  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:15  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"1560270900","pwd":"12345678"}
+ Thu, 09 Aug 2018 17:07:15  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 09 Aug 2018 17:07:15  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:18  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:18  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:18  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:18  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"156027090011","pwd":"12345678"}
+ Thu, 09 Aug 2018 17:07:18  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 09 Aug 2018 17:07:18  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:20  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:20  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:20  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:20  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000039","pwd":"12345"}
+ Thu, 09 Aug 2018 17:07:20  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Thu, 09 Aug 2018 17:07:20  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:23  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:23  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:23  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:23  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000039","pwd":"1234567890cheese111"}
+ Thu, 09 Aug 2018 17:07:23  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+ Thu, 09 Aug 2018 17:07:23  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:26  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:26  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/register
+ Thu, 09 Aug 2018 17:07:26  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：get
+ Thu, 09 Aug 2018 17:07:26  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","pwd":"12345678"}
+ Thu, 09 Aug 2018 17:07:26  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+ Thu, 09 Aug 2018 17:07:26  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:28  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:28  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 09 Aug 2018 17:07:28  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:28  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","pwd":"12345678"}
+ Thu, 09 Aug 2018 17:07:29  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+ Thu, 09 Aug 2018 17:07:29  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:31  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:31  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 09 Aug 2018 17:07:31  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:31  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"","pwd":"1234567890"}
+ Thu, 09 Aug 2018 17:07:31  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 09 Aug 2018 17:07:31  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:34  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:34  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 09 Aug 2018 17:07:34  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:34  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","pwd":""}
+ Thu, 09 Aug 2018 17:07:34  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+ Thu, 09 Aug 2018 17:07:34  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:36  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:36  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 09 Aug 2018 17:07:36  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:36  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000039","pwd":"1234567890"}
+ Thu, 09 Aug 2018 17:07:36  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+ Thu, 09 Aug 2018 17:07:36  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:38  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:38  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/login
+ Thu, 09 Aug 2018 17:07:38  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:38  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","pwd":"12345678911"}
+ Thu, 09 Aug 2018 17:07:38  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+ Thu, 09 Aug 2018 17:07:38  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:41  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:41  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:07:41  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:41  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","amount":"500"}
+ Thu, 09 Aug 2018 17:07:41  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":1,"code":"10001","data":{"id":9812,"regname":"小蜜蜂","pwd":"25D55AD283AA400AF464C76D713C07AD","mobilephone":"15511000036","leaveamount":"500.00","type":"1","regtime":"2018-08-09 17:07:05.0"},"msg":"充值成功"}
+ Thu, 09 Aug 2018 17:07:41  ERROR test_api_v1.py test_register [ line:59 ] 期望结果与实际结果不匹配，用例失败！
+ Thu, 09 Aug 2018 17:07:41  ERROR test_api_v1.py test_register [ line:60 ] 断言异常：
+Traceback (most recent call last):
+  File "/Users/gemii/TestProjects/API_Framework/TestCases/test_api_v1.py", line 54, in test_register
+    self.assertIsNone(re.search(casedata["compare_type"],res_obj.text))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py", line 182, in search
+    return _compile(pattern, flags).search(string)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py", line 300, in _compile
+    raise TypeError("first argument must be string or compiled pattern")
+TypeError: first argument must be string or compiled pattern
+ Thu, 09 Aug 2018 17:07:43  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:43  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:07:43  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:43  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","amount":"200.3"}
+ Thu, 09 Aug 2018 17:07:43  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":1,"code":"10001","data":{"id":9812,"regname":"小蜜蜂","pwd":"25D55AD283AA400AF464C76D713C07AD","mobilephone":"15511000036","leaveamount":"700.30","type":"1","regtime":"2018-08-09 17:07:05.0"},"msg":"充值成功"}
+ Thu, 09 Aug 2018 17:07:43  ERROR test_api_v1.py test_register [ line:59 ] 期望结果与实际结果不匹配，用例失败！
+ Thu, 09 Aug 2018 17:07:43  ERROR test_api_v1.py test_register [ line:60 ] 断言异常：
+Traceback (most recent call last):
+  File "/Users/gemii/TestProjects/API_Framework/TestCases/test_api_v1.py", line 54, in test_register
+    self.assertIsNone(re.search(casedata["compare_type"],res_obj.text))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py", line 182, in search
+    return _compile(pattern, flags).search(string)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py", line 300, in _compile
+    raise TypeError("first argument must be string or compiled pattern")
+TypeError: first argument must be string or compiled pattern
+ Thu, 09 Aug 2018 17:07:46  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:46  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:07:46  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:46  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","amount":"200.35"}
+ Thu, 09 Aug 2018 17:07:46  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":1,"code":"10001","data":{"id":9812,"regname":"小蜜蜂","pwd":"25D55AD283AA400AF464C76D713C07AD","mobilephone":"15511000036","leaveamount":"900.65","type":"1","regtime":"2018-08-09 17:07:05.0"},"msg":"充值成功"}
+ Thu, 09 Aug 2018 17:07:46  ERROR test_api_v1.py test_register [ line:59 ] 期望结果与实际结果不匹配，用例失败！
+ Thu, 09 Aug 2018 17:07:46  ERROR test_api_v1.py test_register [ line:60 ] 断言异常：
+Traceback (most recent call last):
+  File "/Users/gemii/TestProjects/API_Framework/TestCases/test_api_v1.py", line 54, in test_register
+    self.assertIsNone(re.search(casedata["compare_type"],res_obj.text))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py", line 182, in search
+    return _compile(pattern, flags).search(string)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py", line 300, in _compile
+    raise TypeError("first argument must be string or compiled pattern")
+TypeError: first argument must be string or compiled pattern
+ Thu, 09 Aug 2018 17:07:48  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:48  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:07:48  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:48  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"","amount":"200.35"}
+ Thu, 09 Aug 2018 17:07:48  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+ Thu, 09 Aug 2018 17:07:48  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:50  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:50  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:07:50  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:50  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","amount":"0"}
+ Thu, 09 Aug 2018 17:07:50  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":1,"code":"10001","data":{"id":9812,"regname":"小蜜蜂","pwd":"25D55AD283AA400AF464C76D713C07AD","mobilephone":"15511000036","leaveamount":"900.65","type":"1","regtime":"2018-08-09 17:07:05.0"},"msg":"充值成功"}
+ Thu, 09 Aug 2018 17:07:50  ERROR test_api_v1.py test_register [ line:59 ] 期望结果与实际结果不匹配，用例失败！
+ Thu, 09 Aug 2018 17:07:50  ERROR test_api_v1.py test_register [ line:60 ] 断言异常：
+Traceback (most recent call last):
+  File "/Users/gemii/TestProjects/API_Framework/TestCases/test_api_v1.py", line 54, in test_register
+    self.assertIsNone(re.search(casedata["compare_type"],res_obj.text))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py", line 182, in search
+    return _compile(pattern, flags).search(string)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py", line 300, in _compile
+    raise TypeError("first argument must be string or compiled pattern")
+TypeError: first argument must be string or compiled pattern
+ Thu, 09 Aug 2018 17:07:53  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:53  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:07:53  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:53  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","amount":""}
+ Thu, 09 Aug 2018 17:07:53  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20115","data":null,"msg":"请输入金额"}
+ Thu, 09 Aug 2018 17:07:53  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:56  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:56  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:07:56  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:56  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"1376024607","amount":"200"}
+ Thu, 09 Aug 2018 17:07:56  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 09 Aug 2018 17:07:56  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:07:58  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:07:58  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:07:58  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:07:58  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"1376024607011","amount":"200"}
+ Thu, 09 Aug 2018 17:07:58  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+ Thu, 09 Aug 2018 17:07:58  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:08:01  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:08:01  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:08:01  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:08:01  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000039","amount":"200"}
+ Thu, 09 Aug 2018 17:08:01  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20104","data":null,"msg":"此手机号对应的会员不存在"}
+ Thu, 09 Aug 2018 17:08:01  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:08:03  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:08:03  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:08:03  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:08:03  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","amount":"200.333"}
+ Thu, 09 Aug 2018 17:08:03  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20116","data":null,"msg":"输入金额的金额小数不能超过两位"}
+ Thu, 09 Aug 2018 17:08:03  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:08:05  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:08:05  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:08:05  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:08:05  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","amount":"500001"}
+ Thu, 09 Aug 2018 17:08:06  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20117","data":null,"msg":"请输入范围在0到50万之间的正数金额"}
+ Thu, 09 Aug 2018 17:08:06  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
+ Thu, 09 Aug 2018 17:08:08  INFO test_api_v1.py test_register [ line:43 ] ========开始一个接口测试========
+ Thu, 09 Aug 2018 17:08:08  INFO test_api_v1.py test_register [ line:44 ] 请求url为：
+http://120.79.176.157:8080/futureloan/mvc/api/member/recharge
+ Thu, 09 Aug 2018 17:08:08  INFO test_api_v1.py test_register [ line:45 ] 请求方法为：post
+ Thu, 09 Aug 2018 17:08:08  INFO test_api_v1.py test_register [ line:46 ] 请求数据为：
+{"mobilephone":"15511000036","amount":"200块"}
+ Thu, 09 Aug 2018 17:08:08  INFO test_api_v1.py test_register [ line:49 ] 响应的结果为：
+{"status":0,"code":"20118","data":null,"msg":"请输入数字"}
+ Thu, 09 Aug 2018 17:08:08  INFO test_api_v1.py test_register [ line:57 ] 期望结果与实际结果匹配，用例成功！
