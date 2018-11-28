@@ -4,12 +4,12 @@
 #定义类
 class Friend:
 
-    def __init__(self,age,sex,height):
+    def __init__(self,age,sex,height=175,cook=False):
         self.age = age    #在函数内部添加属性不需要单独声明，直接self.属性名
         self.sex = sex
         self.height = height
         #做一些什么前期事情+逻辑处理
-
+        self.canCook(cook)
 
 
 
@@ -43,22 +43,24 @@ class Friend:
 
 #对象一：身高180、会做饭、会赚钱、有200万资产，29岁
 #实例化：类名()
-goudan = Friend()
-print(goudan.age)
-print(goudan.money)
-goudan.canCook()
+#goudan = Friend()
+#print(goudan.age)
+#print(goudan.money)
+#goudan.canCook()
 #如何实现狗蛋只会做蛋炒饭
 
 print("========================")
 #对象二：身高175，不会做饭，年龄25岁，资产5万块
-laowang = Friend()
+#laowang = Friend()
 #改变对象的属性
-laowang.setAge(25)
-print(laowang.age)
-laowang.setHeight(175)
-print(laowang.height)
-laowang.canCook(False)
+#laowang.setAge(25)
+#print(laowang.age)
+#laowang.setHeight(175)
+#print(laowang.height)
+#laowang.canCook(False)
 
 #对象三
 xiaogou = Friend(26,"男",178)
 xixi = Friend(18,"女",160)
+
+
