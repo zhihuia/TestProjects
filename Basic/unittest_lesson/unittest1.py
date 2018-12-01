@@ -20,7 +20,10 @@ class Test_Math(unittest.TestCase):
     #     print("测试用例运行完成之后，收尾操作====")
 
     def test_addTwoNum(self):
-        print(5 + 7)
+        #测试用例
+        res = 5 + 7
+        #结果比对
+        self.assertEqual(res, 14)
 
     def test_minusTwoNum(self):
         print(10 - 2)
