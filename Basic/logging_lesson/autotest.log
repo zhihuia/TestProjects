@@ -1,0 +1,6 @@
+ Sat, 01 Dec 2018 11:54:39  INFO my_logger.py <module> [ line:25 ] hehheheheh
+ Sat, 01 Dec 2018 11:54:39  WARNING my_logger.py <module> [ line:26 ] 我是warning级别
+ Sat, 01 Dec 2018 11:54:39  ERROR my_logger.py <module> [ line:27 ] 我是error级别
+ Sat, 01 Dec 2018 11:57:38  INFO my_logger.py <module> [ line:29 ] hehheheheh
+ Sat, 01 Dec 2018 11:57:38  WARNING my_logger.py <module> [ line:30 ] 我是warning级别
+ Sat, 01 Dec 2018 11:57:38  ERROR my_logger.py <module> [ line:31 ] 我是error级别
