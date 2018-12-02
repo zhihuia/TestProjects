@@ -1,6 +1,6 @@
 import json
 
-a = {"name":"cheese","sex":None}
+a = {"name":"zhihui","sex":None}
 
 #从一个python对象转换成json字符串
 b = json.dumps(a,indent=4,sort_keys=True)   #indent=4 格式缩进，按键名排序a-z
